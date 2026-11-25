@@ -1,0 +1,14 @@
+Package: ais
+Version: 8.0
+Architecture: all
+Maintainer: Trapstyler
+Installed-Size: 88
+Depends: python
+Description: Neon APK Surgeon - dump, recolor, swap, strip ads, inspect, build and sign APKs. Termux-only.
+Filename: dists/termux/extras/binary-all/ais_8.0_all.deb
+Size: 20032
+MD5Sum: cec0697cf6060a3b94116420c46003fd
+SHA1: 92bf6ba9d47966284cde04cbad012645f249bdd0
+SHA256: 323b503b546592319fe411e7753e9ac0b0d8828fa50264618e8714a93360c466
+SHA512: 130c8d2c9009161f550dc6435a77681507d24a886774149b8765e60508e552e3ab9e47a844baba7942b79afbc9e467fc4451ef16423115638a13cc085e74d8aa
+
